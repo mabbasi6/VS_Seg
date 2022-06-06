@@ -1,6 +1,7 @@
 # Data preprocessing
 This readme explains how to convert the TCIA data set into a data set with a more convenient folder structure and file 
 names and how to subsequently convert the DICOM images and JSON contour lines into NIFTI format.
+This is run on Momo's PC (Windows) (Personal reference: conda environment name: momo_seg).
 
 ##  Requirements
 
