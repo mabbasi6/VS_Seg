@@ -49,7 +49,7 @@ where:
 * The 3DSlicer archive has been unpacked at <SLICER_DIR>.
 * The 3DSlicer software needs to run, and for that this documentation is helpful: https://slicer.readthedocs.io/en/latest/developer_guide/script_repository.html
 * 3DSlicer version 5+ recommended.
-* Sample command: "C:\Users\Mohammad\AppData\Local\NA-MIC\Slicer 5.0.2\Slicer.exe" --python-script data_conversion.py --no-splash --no-main-window --input-folder C:\BNI --output-folder D:\BNI_prepped
+* Sample command: `"C:\Users\Mohammad\AppData\Local\NA-MIC\Slicer 5.0.2\Slicer.exe" --python-script data_conversion.py --no-splash --no-main-window --input-folder C:\BNI --output-folder D:\BNI_prepped`
 
 `````--input-folder <INPUT_DATA_FOLDER>  `````
 * <INPUT_DATA_FOLDER> is a path to a folder containing sub-folders named `vs_gk_<case_number>_t1`,
